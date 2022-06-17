@@ -1,2 +1,3 @@
-# light-mode-and-night-mode![light mode and night mode](https://user-images.githubusercontent.com/31365027/174391757-1b2db32b-b77e-4d80-a5ed-990e144be0c3.PNG)
-![modal1](https://user-images.githubusercontent.com/31365027/174391778-bafc7f99-4575-4b3b-b44c-8dc0c3746261.PNG)
+# light-mode-and-night-mode![light mode and night mode]
+![light mode and night mode](https://user-images.githubusercontent.com/31365027/174391855-9080f55c-55f8-453a-a9b0-be132fd562b3.PNG)
+![night mode](https://user-images.githubusercontent.com/31365027/174391858-f2625213-2b3c-404f-9b91-9db78ce0cf4c.PNG)
